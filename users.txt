@@ -1,0 +1,5 @@
+create table users(users_id int primary key auto_increment,username varchar(25),email varchar(40));
+insert into users values(101,'Upasana','u2gmail.com');
+insert into users values(102,'Gungun','g@gmail.com');
+insert into users values(103,'Rimjhim','r@gmail.com');
+insert into users values(104,'Rimjhim','rr@gmail.com');
